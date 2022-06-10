@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G6D765M)
+
 <!--
 **eric-king/eric-king** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
